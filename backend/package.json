@@ -10,7 +10,7 @@
   },
   "keywords": [],
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "@sendgrid/mail": "^8.1.5",
     "cors": "^2.8.5",
