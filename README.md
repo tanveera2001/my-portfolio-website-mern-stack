@@ -1,4 +1,4 @@
-# 👨‍💻 Personal Portfolio – [Tanveer Ahmed]
+# 👨‍💻 Personal Portfolio – Tanveer Ahmed
 
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
@@ -10,14 +10,15 @@
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
 ![MIT License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
 
-[![GitHub stars](https://img.shields.io/github/stars/your-username/portfolio?style=social)](https://github.com/your-username/portfolio/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/your-username/portfolio?style=social)](https://github.com/your-username/portfolio/network)
+---
 
-A professional personal portfolio website showcasing **projects, skills, experience, and contact information**.
+🌐 **Live Demo**: [https://tanveer-ahmed.vercel.app](https://tanveer-ahmed.vercel.app)
 
-This project demonstrates **responsive design, project showcase, interactive UI, and contact integration**.
+A professional personal portfolio website showcasing **projects, skills, experience, and contact information**. This project demonstrates **responsive design, project showcase, interactive UI, and contact integration**.
 
 ---
+
+
 
 ## 📑 Table of Contents
 
