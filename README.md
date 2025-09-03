@@ -74,21 +74,40 @@ A professional personal portfolio website showcasing **projects, skills, experie
 1. **Clone the repo**
 
     ```bash
-    git clone https://github.com/your-username/portfolio.git
-    cd portfolio
+    git clone https://github.com/tanveera2001/my-portfolio-website.git
+    cd my-portfolio-website
+
     ```
 
 2. **Install dependencies**
 
-    ```bash
-    npm install
-    ```
+   - **Backend:**  
+     Navigate to the backend folder and install dependencies:
+     ```bash
+     cd backend
+     npm install
+     ```
+     
+   - **Frontend:**  
+     Navigate to the frontend folder and install dependencies:
+     ```bash
+     cd frontend
+     npm install
+     ```
 
 3. **Run the development server**
 
-    ```bash
-    npm run dev
-    ```
+   - Start backend first:
+     ```bash
+     cd backend
+     npm run dev
+     ```
+   - Then start frontend:
+     ```bash
+     cd frontend
+     npm run dev
+     ```
+
 
 4. Open the app in your browser at:
 
