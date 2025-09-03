@@ -110,7 +110,7 @@ A professional personal portfolio website showcasing **projects, skills, experie
 
 ## 🌍 Deployment
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-View%20Website-brightgreen?style=for-the-badge)](https://your-portfolio.vercel.app/)
+🌐 **Live Demo**: [https://tanveer-ahmed.vercel.app](https://tanveer-ahmed.vercel.app)
 
 ---
 
@@ -125,8 +125,8 @@ A professional personal portfolio website showcasing **projects, skills, experie
 
 ## 👤 Author
 
-**[Your Name]**
+**[Tanveer Ahmed]**
 
-- 📧 Email: [your-email@gmail.com](mailto:your-email@gmail.com)  
-- 💼 LinkedIn: [your-linkedin-profile](https://linkedin.com/in/your-linkedin-profile)  
-- 💻 GitHub: [your-github-profile](https://github.com/your-github-profile)
+- 📧 Email: [tanveera2001@gmail.com](mailto:tanveera2001@gmail.com)  
+- 💼 LinkedIn: [https://www.linkedin.com/in/md-tanveer-ahmed-23b06023b/](https://www.linkedin.com/in/md-tanveer-ahmed-23b06023b/)  
+- 💻 GitHub: [https://github.com/tanveera2001](https://github.com/tanveera2001)
