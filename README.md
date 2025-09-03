@@ -58,17 +58,18 @@ A professional personal portfolio website showcasing **projects, skills, experie
 
 ## 📸 Screenshots
 
-Below are some views of the portfolio in action:
+**Home Page:**  
+![Home Page](images-readme/my-portfolio-home-page.png)
 
-<p align="center">
-  <img src="images-readme/my-portfolio-home-page.png" alt="Home Page" width="1000"  />
-  <img src="images-readme/my-portfolio-about-page.png" alt="Home Page" width="1000" />
-  <img src="images-readme/my-portfolio-project-page.png" alt="Projects Page" width="1000" />
-  <img src="images-readme/my-portfolio-contact-page.png" alt="Home Page" width="1000" />
-</p>
+**Projects Page:**  
+![Projects Page](images-readme/my-portfolio-project-page.png)
 
-*Home Page highlighting your intro and summary.*  
-*Projects Page displaying your featured work and descriptions.*
+**About Page:**  
+![About Page](images-readme/my-portfolio-about-page.png)
+
+**Contact Page:**  
+![Contact Page](images-readme/my-portfolio-contact-page.png)
+
 
 
 
