@@ -58,19 +58,16 @@ A professional personal portfolio website showcasing **projects, skills, experie
 
 ## 📸 Screenshots
 
-Here are some example screenshots of the project:
+Below are some views of the portfolio in action:
 
-- **Home Page**  
-  ![Home Page](https://via.placeholder.com/800x400?text=Home+Page)  
-  [View Screenshot](https://via.placeholder.com/800x400?text=Home+Page)
+<p align="center">
+  <img src="images/home-page.png" alt="Home Page" width="300" />
+  <img src="images/projects-page.png" alt="Projects Page" width="300" />
+</p>
 
-- **Projects Page**  
-  ![Projects Page](https://via.placeholder.com/800x400?text=Projects+Page)  
-  [View Screenshot](https://via.placeholder.com/800x400?text=Projects+Page)
+*Home Page highlighting your intro and summary.*  
+*Projects Page displaying your featured work and descriptions.*
 
-- **Contact Page**  
-  ![Contact Page](https://via.placeholder.com/800x400?text=Contact+Page)  
-  [View Screenshot](https://via.placeholder.com/800x400?text=Contact+Page)
 
 
 ---
