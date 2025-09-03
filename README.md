@@ -26,7 +26,7 @@ A professional personal portfolio website showcasing **projects, skills, experie
 - [🛠 Tech Stack](#-tech-stack)
 - [📸 Screenshots](#-screenshots)
 - [⚙️ Installation & Setup](#-installation--setup)
-- [📡 API Endpoints (Optional)](#-api-endpoints-optional)
+- [📡 API Endpoints](#-api-endpoints)
 - [🌍 Deployment](#-deployment)
 - [📌 Future Improvements](#-future-improvements)
 - [👤 Author](#-author)
@@ -98,13 +98,22 @@ A professional personal portfolio website showcasing **projects, skills, experie
 
 ---
 
-## 📡 API Endpoints (Optional)
+## 📡 API Endpoints
 
-| Method | Endpoint | Description |
-| ------ | -------- | ----------- |
-| POST   | /api/contact | Submit contact form |
+| Method | Endpoint                        | Description |
+| ------ | ------------------------------- | ----------- |
+| GET    | /api/projects                   | Get all projects |
+| GET    | /api/tools-technologies         | Get all tools & technologies |
+| GET    | /api/education                  | Get all education entries |
+| GET    | /api/work-experience            | Get all work experiences |
+| GET    | /api/certifications             | Get all certifications |
+| POST   | /api/contact                    | Submit contact form |
+| GET    | /api/seed/projects              | Seed project data |
+| GET    | /api/seed/tools-technologies    | Seed tools & technologies data |
+| GET    | /api/seed/education             | Seed education data |
+| GET    | /api/seed/work-experience       | Seed work experience data |
+| GET    | /api/seed/certifications        | Seed certifications data |
 
-*(Remove this section if you don’t have a backend.)*
 
 ---
 
