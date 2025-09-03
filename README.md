@@ -61,10 +61,10 @@ A professional personal portfolio website showcasing **projects, skills, experie
 Below are some views of the portfolio in action:
 
 <p align="center">
-  <img src="images-readme/my-portfolio-home-page.png" alt="Home Page" width="300" />
-  <img src="images-readme/my-portfolio-about-page.png" alt="Home Page" width="300" />
-  <img src="images-readme/my-portfolio-project-page.png" alt="Projects Page" width="300" />
-  <img src="images-readme/my-portfolio-contact-page.png" alt="Home Page" width="300" />
+  <img src="images-readme/my-portfolio-home-page.png" alt="Home Page" width="1000"  />
+  <img src="images-readme/my-portfolio-about-page.png" alt="Home Page" width="1000" />
+  <img src="images-readme/my-portfolio-project-page.png" alt="Projects Page" width="1000" />
+  <img src="images-readme/my-portfolio-contact-page.png" alt="Home Page" width="1000" />
 </p>
 
 *Home Page highlighting your intro and summary.*  
