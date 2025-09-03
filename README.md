@@ -60,13 +60,10 @@ A professional personal portfolio website showcasing **projects, skills, experie
 
 **Home Page:**  
 ![Home Page](images-readme/my-portfolio-home-page.png)
-
-**Projects Page:**  
-![Projects Page](images-readme/my-portfolio-project-page.png)
-
 **About Page:**  
 ![About Page](images-readme/my-portfolio-about-page.png)
-
+**Projects Page:**  
+![Projects Page](images-readme/my-portfolio-project-page.png)
 **Contact Page:**  
 ![Contact Page](images-readme/my-portfolio-contact-page.png)
 
