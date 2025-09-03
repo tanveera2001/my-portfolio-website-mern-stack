@@ -23,6 +23,7 @@ A professional personal portfolio website showcasing **projects, skills, experie
 ## 📑 Table of Contents
 
 - [🚀 Features](#-features)
+- [📝 Problems & Solutions](#-problems--solutions)
 - [🛠 Tech Stack](#-tech-stack)
 - [📸 Screenshots](#-screenshots)
 - [⚙️ Installation & Setup](#-installation--setup)
@@ -41,6 +42,24 @@ A professional personal portfolio website showcasing **projects, skills, experie
 - 📬 **Contact Form** – Users can send messages directly from the website  
 - 📱 **Responsive Design** – Optimized for desktop, laptop, and mobile using **Tailwind CSS** 
 - 🌐 **Deployment** – Hosted on Vercel
+
+---
+
+## 📝 Problems & Solutions
+
+During the development of this project, I faced several challenges and found solutions for each:
+
+1. **Problem:** Handling image uploads in the React frontend and saving them to the backend.  
+   **Solution:** Used `FormData` to send files via Axios and stored images in the backend folder with proper path saving in MongoDB.
+
+2. **Problem:** Secure authentication and session management for admin users.  
+   **Solution:** Implemented JWT-based authentication with access and refresh tokens stored in HttpOnly cookies.
+
+3. **Problem:** Dynamic rendering of menu items with CRUD operations.  
+   **Solution:** Created reusable React components and connected them with Express API endpoints using Axios.
+
+4. **Problem:** Responsive design and cross-device compatibility.  
+   **Solution:** Used Tailwind CSS to make all components responsive and tested on multiple screen sizes.
 
 ---
 
