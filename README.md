@@ -81,8 +81,17 @@ A professional personal portfolio website showcasing **projects, skills, experie
     cd my-portfolio-website
 
     ```
+2. **Set up environment variables**
+   ```bash
+    SERVER_PORT=500
+    MONGODB_ATLAS_URL=your_mongodb_connection_string_he
+    FRONTEND_URL=http://localhost:5173
+    SENDGRID_API_KEY=your_sendgrid_api_key_here
+    PORTFOLIO_EMAIL_TO=your-email@example.com
+    PORTFOLIO_EMAIL_FROM=from-email@example.com
+   ```
 
-2. **Install dependencies**
+3. **Install dependencies**
 
    - **Backend:**  
      Go to the **frontend** folder and run:
@@ -96,7 +105,7 @@ A professional personal portfolio website showcasing **projects, skills, experie
      npm install
      ```
 
-3. **Run the development server**
+4. **Run the development server**
 
    - **Backend:**  
     In the **backend** folder, run:
@@ -111,7 +120,7 @@ A professional personal portfolio website showcasing **projects, skills, experie
      ```
 
 
-4. Open the app in your browser at:
+5. Open the app in your browser at:
 
     ```
     http://localhost:5173
