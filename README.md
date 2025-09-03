@@ -49,16 +49,10 @@ A professional personal portfolio website showcasing **projects, skills, experie
 
 During the development of this project, I faced several challenges and found solutions for each:
 
-1. **Problem:** Handling image uploads in the React frontend and saving them to the backend.  
-   **Solution:** Used `FormData` to send files via Axios and stored images in the backend folder with proper path saving in MongoDB.
+1. **Problem:** Messages were not being sent through the live Vercel deployment.  
+   **Solution:** The issue was caused by outdated environment variables on Vercel. After updating the environment variables, it was necessary to redeploy the project for the changes to take effect. Once redeployed, the messaging functionality worked correctly.
 
-2. **Problem:** Secure authentication and session management for admin users.  
-   **Solution:** Implemented JWT-based authentication with access and refresh tokens stored in HttpOnly cookies.
-
-3. **Problem:** Dynamic rendering of menu items with CRUD operations.  
-   **Solution:** Created reusable React components and connected them with Express API endpoints using Axios.
-
-4. **Problem:** Responsive design and cross-device compatibility.  
+2. **Problem:** Responsive design and cross-device compatibility.  
    **Solution:** Used Tailwind CSS to make all components responsive and tested on multiple screen sizes.
 
 ---
