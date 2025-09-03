@@ -70,9 +70,6 @@ A professional personal portfolio website showcasing **projects, skills, experie
 **Contact Page:**  
 ![Contact Page](images-readme/my-portfolio-contact-page.png)
 
-
-
-
 ---
 
 ## ⚙️ Installation & Setup
