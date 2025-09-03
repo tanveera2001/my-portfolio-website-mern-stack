@@ -59,11 +59,14 @@ A professional personal portfolio website showcasing **projects, skills, experie
 ## 📸 Screenshots
 
 **Home Page:**  
-![Home Page](images-readme/my-portfolio-home-page.png)
+![Home Page](images-readme/my-portfolio-home-page.png)  
+
 **About Page:**  
-![About Page](images-readme/my-portfolio-about-page.png)
+![About Page](images-readme/my-portfolio-about-page.png)  
+
 **Projects Page:**  
-![Projects Page](images-readme/my-portfolio-project-page.png)
+![Projects Page](images-readme/my-portfolio-project-page.png)  
+
 **Contact Page:**  
 ![Contact Page](images-readme/my-portfolio-contact-page.png)
 
@@ -82,29 +85,28 @@ A professional personal portfolio website showcasing **projects, skills, experie
 2. **Install dependencies**
 
    - **Backend:**  
-     Navigate to the backend folder and install dependencies:
+     Go to the **frontend** folder and run:
      ```bash
-     cd backend
      npm install
      ```
      
    - **Frontend:**  
-     Navigate to the frontend folder and install dependencies:
+     Go to the **backend** folder and run:
      ```bash
-     cd frontend
      npm install
      ```
 
 3. **Run the development server**
 
-   - Start backend first:
+   - **Backend:**  
+    In the **backend** folder, run:
      ```bash
-     cd backend
      npm run dev
      ```
-   - Then start frontend:
+     
+   - **Frontend:**  
+     In the frontend folder, run:
      ```bash
-     cd frontend
      npm run dev
      ```
 
