@@ -35,12 +35,12 @@ A professional personal portfolio website showcasing **projects, skills, experie
 
 ## 🚀 Features
 
-- 🏠 **Home Page** – Introduction and professional summary.  
-- 💼 **Projects Showcase** – Display of projects with descriptions, links, and images.  
-- 📝 **Resume Section** – Downloadable resume / CV.  
-- 📬 **Contact Form** – Users can send messages directly from the website.  
-- 📱 **Responsive Design** – Optimized for desktop, tablet, and mobile using **Tailwind CSS**.  
-- 🌐 **Deployment Ready** – Easily deployable on Vercel, Netlify, or Render.
+- 🏠 **Home Page** – Introduction and professional summary  
+- 💼 **Projects Showcase** – Display of projects with descriptions and links  
+- 📝 **Resume Section** – Downloadable resume 
+- 📬 **Contact Form** – Users can send messages directly from the website  
+- 📱 **Responsive Design** – Optimized for desktop, laptop, and mobile using **Tailwind CSS** 
+- 🌐 **Deployment** – Hosted on Vercel
 
 ---
 
