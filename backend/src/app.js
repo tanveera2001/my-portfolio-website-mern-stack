@@ -41,8 +41,8 @@ app.use("/api/work-experience", workExperienceRouter);
 app.use("/api/contact", contactRouter);
 app.use("/api/certifications", certificationRouter);
 
-app.get("/", (req, res)=>{
-	res.send("Congratulations! You did it.");
+app.get("/", (req, res) => {
+    res.send("Congratulations! You did it.");
 });
 
 // Global error handler
@@ -57,3 +57,4 @@ app.use((err, req, res, next) => {
 
 // Export App
 module.exports = app;
+
