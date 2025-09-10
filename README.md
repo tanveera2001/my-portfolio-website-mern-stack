@@ -26,7 +26,7 @@ A professional personal portfolio website showcasing **projects, skills, experie
 - [📝 Problems & Solutions](#-problems--solutions)
 - [🛠 Tech Stack](#-tech-stack)
 - [📸 Screenshots](#-screenshots)
-- [⚙️ Installation & Setup](#installation--setup)
+- [⚙️ Installation & Setup](#installation-and-setup)
 - [📡 API Endpoints](#-api-endpoints)
 - [🌍 Deployment](#-deployment)
 - [📌 Future Improvements](#-future-improvements)
@@ -85,7 +85,7 @@ During the development of this project, I faced several challenges and found sol
 
 ---
 
-## ⚙️ Installation & Setup
+## Installation and Setup
 
 1. **Clone the repo**
 
