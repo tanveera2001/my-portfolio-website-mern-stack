@@ -96,12 +96,16 @@ During the development of this project, I faced several challenges and found sol
     ```
 2. **Set up environment variables**
    ```bash
-    SERVER_PORT=500
-    MONGODB_ATLAS_URL=your_mongodb_connection_string_he
+    SERVER_PORT=5000
+    MONGODB_ATLAS_URL=your_mongodb_connection_string
+    JWT_SECRET=your_jwt_secret_key
+    NODE_ENV=development
+    MAIL_HOST=your_mailtrap_host
+    MAIL_PORT=587
+    MAIL_USER=your_mailtrap_username
+    MAIL_PASS=your_mailtrap_password
     FRONTEND_URL=http://localhost:5173
-    SENDGRID_API_KEY=your_sendgrid_api_key_here
-    PORTFOLIO_EMAIL_TO=your-email@example.com
-    PORTFOLIO_EMAIL_FROM=from-email@example.com
+
    ```
 
 3. **Install dependencies**
