@@ -26,7 +26,7 @@ A professional personal portfolio website showcasing **projects, skills, experie
 - [📝 Problems & Solutions](#-problems--solutions)
 - [🛠 Tech Stack](#-tech-stack)
 - [📸 Screenshots](#-screenshots)
-[⚙️ Installation & Setup](https://github.com/tanveera2001/authentication-mern-stack/blob/main/README.md#%EF%B8%8F-installation--setup)
+- [⚙️ Installation & Setup](#installation--setup)
 - [📡 API Endpoints](#-api-endpoints)
 - [🌍 Deployment](#-deployment)
 - [📌 Future Improvements](#-future-improvements)
