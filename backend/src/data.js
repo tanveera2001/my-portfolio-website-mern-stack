@@ -3,8 +3,8 @@ const data = {
   projects: [
     {
       title: "Portfolio Website",
-      description: "A professional personal portfolio website showcasing projects, skills, experience, and contact information. This project demonstrates responsive design, project showcase, interactive UI, and contact integration.",
-      url: "https://github.com/tanveera2001/tanveer-portfolio",
+      description: "A professional personal portfolio website showcasing projects, skills, experience, and contact information.",
+      url: "https://github.com/tanveera2001/my-portfolio-website-mern-stack",
     },
     {
       title: "Authentication Web App",
