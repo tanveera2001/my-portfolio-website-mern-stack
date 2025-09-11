@@ -1,21 +1,27 @@
-// backend/data.js
+
 const data = {
   projects: [
     {
+      title: "Portfolio Website",
+      description: "A professional personal portfolio website showcasing projects, skills, experience, and contact information. This project demonstrates responsive design, project showcase, interactive UI, and contact integration.",
+      url: "https://github.com/tanveera2001/tanveer-portfolio",
+    },
+    {
+      title: "Authentication Web App",
+      description: "A full-stack authentication system built with the MERN stack. Includes secure signup, email verification, login, forgot/reset password, protected dashboard, and logout functionality.",
+      url: "https://github.com/tanveera2001/authentication-mern-stack"
+    },
+    {
       title: "Famous Burger Website",
-      description: "Optimize your Node.js applications using Prisma. Learn tips for efficient queries and reduced database access time. Unlock lightning-fast content delivery with CloudFront in just 6 simple steps! Learn tips for efficient queries and reduced database access time. Unlock lightning-fast content delivery with CloudFront in just 6 simple steps! Learn tips for efficient queries and reduced database access time. Unlock lightning-fast content delivery with CloudFront in just 6 simple steps! Learn tips for efficient queries and reduced database access time. Unlock lightning-fast content delivery with CloudFront in just 6 simple steps! Learn tips for efficient queries and reduced database access time.",
+      description: "A full-stack MERN web application with authentication, image upload, CRUD functionality, REST APIs, and GitHub deployment.",
       url: "https://github.com/tanveera2001/famous-burger-website",
     },
     {
       title: "Contact Management System",
-      description: "Unlock lightning-fast content delivery with CloudFront in just 6 simple steps! Learn tips for efficient queries and reduced database access time. Unlock lightning-fast content delivery with CloudFront in just 6 simple steps! Learn tips for efficient queries and reduced database access time. ",
+      description: "A pure C program to efficiently add, search, update, and delete contacts with file handling for data persistence and a simple console-based interface.",
       url: "https://github.com/tanveera2001/Contact-Management-System-Project",
     },
-    {
-      title: "Portfolio Website",
-      description: "Unlock lightning-fast content delivery with CloudFront in just 6 simple steps! Learn tips for efficient queries and reduced database access time.",
-      url: "https://github.com/tanveera2001/tanveer-portfolio",
-    },
+
   ],
 
   toolsTechnologies: [
@@ -31,12 +37,12 @@ const data = {
     },
     {
       name: "Node.js",
-      exp: "2 years",
+      exp: "3 years",
       image: "images/tools-technologies/1753468137252-nodejs.png",
     },
     {
       name: "React",
-      exp: "3 years",
+      exp: "2 years",
       image: "images/tools-technologies/1753468137253-react.png",
     },
     {
@@ -56,22 +62,22 @@ const data = {
     },
     {
       name: "MongoDB",
-      exp: "2 years",
+      exp: "3 years",
       image: "images/tools-technologies/1753468137257-mongodb.png",
     },
     {
       name: "C",
-      exp: "2 years",
+      exp: "6 years",
       image: "images/tools-technologies/1753468137258-c.png",
     },
     {
       name: "VS Code",
-      exp: "3 years",
+      exp: "6 years",
       image: "images/tools-technologies/1753468137259-vscode.png",
     },
     {
       name: "Code::Blocks",
-      exp: "2 years",
+      exp: "6 years",
       image: "images/tools-technologies/1753468137260-codeblocks.png",
     },
     {
@@ -81,12 +87,12 @@ const data = {
     },
     {
       name: "Git",
-      exp: "2 years",
+      exp: "3 years",
       image: "images/tools-technologies/1753468137262-git.png",
     },
     {
       name: "GitHub",
-      exp: "2 years",
+      exp: "3 years",
       image: "images/tools-technologies/1753468137263-github.png",
     },
     {
@@ -97,16 +103,18 @@ const data = {
   ],
   workExperience: [
     {
-      startDate: "2021-11-08",
-      endDate: "Current",
-      role: "Full Stack Software Developer",
-      company: "AlgoSolver LLC",
-      location: "(Remote) 28-07 Jackson Ave, Long Island City, NY",
-      image: "images/work-experience/1753468137233-work-experience.jpg",
+      startDate: "Sept 2023",
+      endDate: "Sept 2024",
+      role: "General Member",
+      company: "NSU YES! (Young Entrepreneurs Society)",
+      location: "Dhaka, Bangladesh",
+      image: "images/work-experience/1753468137233-nsu-yes.jpg",
       points: [
-        "I do not have formal work experience yet, but I have been learning web development for the past 3 years.",
-        "Developed full-stack applications using the MERN (MongoDB, Express, React, Node.js) stack.",
-        "Implemented authentication and authorization features with JWT and session-based systems.",
+        "Planned 2 major university events, coordinated with cross-functional teams",
+        "Provided operational and logistical support, streamlining workflows and improving event efficiency.",
+        "Designed digital content for the Media & IT team, including promotional materials and event visuals.",
+        "Collaborated with internal and external stakeholders, enhancing club operations and strengthening strategic partnerships.",
+        "Contributed to team-driven initiatives, fostering engagement and supporting overall club growth.",
       ],
     },
   ],
@@ -136,6 +144,13 @@ const data = {
       image: "images/education/1753468137203-isc.jpg"
     }
   ],
+  certifications: [
+  {
+    name: "No certificate yet",
+    issuer: "N/A",
+    image: "images/certifications/1753468137253-no-certificate.png",
+  },
+],
 
 };
 
